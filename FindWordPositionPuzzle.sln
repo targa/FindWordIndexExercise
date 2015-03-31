@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWordPositionPuzzle", "FindWordPositionPuzzle\FindWordPositionPuzzle.csproj", "{8272C6AA-5973-4716-B431-EE708F4E2F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWordPositionPuzzleTests", "FindWordPositionPuzzleTests\FindWordPositionPuzzleTests.csproj", "{1CA80814-D34D-4DB1-9F57-B8E50D01FF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8272C6AA-5973-4716-B431-EE708F4E2F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8272C6AA-5973-4716-B431-EE708F4E2F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8272C6AA-5973-4716-B431-EE708F4E2F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8272C6AA-5973-4716-B431-EE708F4E2F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA80814-D34D-4DB1-9F57-B8E50D01FF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA80814-D34D-4DB1-9F57-B8E50D01FF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA80814-D34D-4DB1-9F57-B8E50D01FF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA80814-D34D-4DB1-9F57-B8E50D01FF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
